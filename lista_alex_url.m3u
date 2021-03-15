@@ -1,0 +1,495 @@
+#EXTM3U
+#EXTINF:-1,iptvtools_2
+https://streaming.cnnbrasil.com.br/cnndigital_main.m3u8
+#EXTINF:-1,iptvtools_3
+http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
+#EXTINF:-1,iptvtools_6
+https://59f1cbe63db89.streamlock.net:1443/tvc21/_definst_/tvc21/playlist.m3u8
+#EXTINF:-1,iptvtools_8
+https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1960464540.m3u8
+#EXTINF:-1,iptvtools_10
+https://5cf4a2c2512a2.streamlock.net:443/dgrau/dgrau/chunklist_w698058298.m3u8
+#EXTINF:-1,iptvtools_11
+https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
+#EXTINF:-1,iptvtools_12
+https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/playlist.m3u8
+#EXTINF:-1,iptvtools_13
+https://5d2c98775bafe.streamlock.net/8020/8020/chunklist_w1373090659.m3u8
+#EXTINF:-1,iptvtools_14
+https://59f1cbe63db89.streamlock.net:1443/canal/_definst_/canal/chunklist_w1913464202.m3u8
+#EXTINF:-1,iptvtools_16
+https://srv3.zcast.com.br/telavivatv/telavivatv/chunklist_w27166670.m3u8
+#EXTINF:-1,iptvtools_17
+https://srv2.zcast.com.br/cleto2085/cleto2085/chunklist_w564310084.m3u8
+#EXTINF:-1,iptvtools_18
+https://stmv1.voxtvhd.com.br/istv/istv/chunklist_w1506444664.m3u8
+#EXTINF:-1,iptvtools_20
+https://stmv1.srvstm.com/cartoonr2/cartoonr2/playlist.m3u8
+#EXTINF:-1,iptvtools_21
+https://59f1cbe63db89.streamlock.net:1443/summertv/_definst_/summertv/chunklist_w749519263.m3u8
+#EXTINF:-1,iptvtools_22
+https://srv5.zcast.com.br/tvmanchete/tvmanchete/playlist.m3u8
+#EXTINF:-1,iptvtools_23
+https://stmv1.srvstm.com/tvserie2/tvserie2/playlist.m3u8
+#EXTINF:-1,iptvtools_24
+https://stmv1.srvstm.com/tvserie/tvserie/playlist.m3u8
+#EXTINF:-1,iptvtools_25
+https://StmV1.srvstm.com/tvserie3/tvserie3/playlist.m3u8
+#EXTINF:-1,iptvtools_27
+https://stmv1.srvstm.com:443/rogerio4248/rogerio4248/chunklist_w2046020600.m3u8
+#EXTINF:-1,iptvtools_28
+https://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
+#EXTINF:-1,iptvtools_29
+http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/mono.m3u8
+#EXTINF:-1,iptvtools_30
+http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
+#EXTINF:-1,iptvtools_32
+https://cdnlive.radiou.com/LS-ATL-43240-1/tracks-v1a1/mono.m3u8
+#EXTINF:-1,iptvtools_34
+https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
+#EXTINF:-1,iptvtools_35
+https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/manifest.m3u8
+#EXTINF:-1,iptvtools_67
+https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w372330674_b176000_sleng.m3u8
+#EXTINF:-1,iptvtools_68
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w902022027_b216000_sleng.m3u8
+#EXTINF:-1,iptvtools_69
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1033677620_b216000_sleng.m3u8
+#EXTINF:-1,iptvtools_70
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1033677620_b176000_sleng.m3u8
+#EXTINF:-1,iptvtools_73
+http://difusorama.zoeweb.tv:1935/z437-live/stream/playlist.m3u8
+#EXTINF:-1,iptvtools_74
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1716953599_b176000_sleng.m3u8
+#EXTINF:-1,iptvtools_75
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w199492672_b216000_sleng.m3u8
+#EXTINF:-1,iptvtools_76
+http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
+#EXTINF:-1,iptvtools_94
+http://stream.novotempo.com:1935/tv/smil:tvnovotempo.smil/playlist.m3u8
+#EXTINF:-1,iptvtools_96
+https://lh3.googleusercontent.com/t1qbf9bZXVBD1Ti1YwKQrL7ZFBStacsU49WXfGfwPd337-t5BHyHHZnGzQ_kW8dMvg=h900
+#EXTINF:-1,iptvtools_98
+http://www.djing.com/tv/04.m3u8
+#EXTINF:-1,iptvtools_99
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+#EXTINF:-1,iptvtools_101
+http://rtmp.one.by:1200
+#EXTINF:-1,iptvtools_102
+http://rtmp.one.by:1300
+#EXTINF:-1,iptvtools_103
+http://rtmp.one.by:2300
+#EXTINF:-1,iptvtools_106
+http://6d9a.webradio.upx.net.br:9974/stream
+#EXTINF:-1,iptvtools_108
+http://6d9a.webradio.upx.net.br:9061/stream
+#EXTINF:-1,iptvtools_109
+http://6d9a.webradio.upx.net.br:9940/stream
+#EXTINF:-1,iptvtools_113
+http://6d9a.webradio.upx.net.br:9064/stream
+#EXTINF:-1,iptvtools_114
+http://6d9a.webradio.upx.net.br:8016/stream
+#EXTINF:-1,iptvtools_122
+http://6d9a.webradio.upx.net.br:9070/stream
+#EXTINF:-1,iptvtools_128
+http://6d9a.webradio.upx.net.br:9970/stream
+#EXTINF:-1,iptvtools_129
+http://6d9a.webradio.upx.net.br:8028/stream
+#EXTINF:-1,iptvtools_133
+http://6d9a.webradio.upx.net.br:9046/stream
+#EXTINF:-1,iptvtools_134
+http://6d9a.webradio.upx.net.br:9898/stream
+#EXTINF:-1,iptvtools_135
+http://6d9a.webradio.upx.net.br:9896/stream
+#EXTINF:-1,iptvtools_136
+https://hls.brasilstream.com.br/live/fmlive/fmlive/tracks-v1a1/mono.m3u8
+#EXTINF:-1,iptvtools_137
+https://servidor39-1.brlogic.com:8130/live
+#EXTINF:-1,iptvtools_138
+http://streaming.livecenterhost.com:8054/stream?type=http&nocache=45
+#EXTINF:-1,iptvtools_139
+http://s32.maxcast.com.br:8022/live
+#EXTINF:-1,iptvtools_141
+https://str2b.openstream.co/1084
+#EXTINF:-1,iptvtools_143
+http://servidor36.brlogic.com:8180/live
+#EXTINF:-1,iptvtools_145
+https://lh6.ggpht.com/jNHeq6dAZUmpByumQKOdh2N64B2-i6Qwd-MlFysGxZPnF7pbktOcFLrOgTcN28g5Fa0=w300
+#EXTINF:-1,iptvtools_146
+https://stream.vagalume.fm/hls/14623883771774082279/index.m3u8
+#EXTINF:-1,iptvtools_147
+https://lh6.ggpht.com/jNHeq6dAZUmpByumQKOdh2N64B2-i6Qwd-MlFysGxZPnF7pbktOcFLrOgTcN28g5Fa0=w300
+#EXTINF:-1,iptvtools_148
+https://stream.vagalume.fm/hls/1470154922349875/index.m3u8
+#EXTINF:-1,iptvtools_149
+https://lh6.ggpht.com/jNHeq6dAZUmpByumQKOdh2N64B2-i6Qwd-MlFysGxZPnF7pbktOcFLrOgTcN28g5Fa0=w300
+#EXTINF:-1,iptvtools_150
+https://stream.vagalume.fm/hls/14619606471054026608/index.m3u8
+#EXTINF:-1,iptvtools_151
+https://lh6.ggpht.com/jNHeq6dAZUmpByumQKOdh2N64B2-i6Qwd-MlFysGxZPnF7pbktOcFLrOgTcN28g5Fa0=w300
+#EXTINF:-1,iptvtools_152
+https://stream.vagalume.fm/hls/147015499779090/aac.m3u8
+#EXTINF:-1,iptvtools_153
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhfhctHpdWrnU-xJDtqQc-FQiPiBl1qfxgoSTjOBBvBSa7GUjHbCKdBLNC4g
+#EXTINF:-1,iptvtools_154
+https://medias.sgr.globo.com/hls/aBHFM/aBHFM.m3u8
+#EXTINF:-1,iptvtools_1
+http://a5.vc/JHX
+#EXTINF:-1,A&E HD
+http://srvx.io:80/live/7885037935/fireurl.co/71762.ts
+#EXTINF:-1,iptvtools_3
+http://a5.vc/Xun
+#EXTINF:-1,AMC FHD
+http://srvx.io:80/live/7885037935/fireurl.co/71768.ts
+#EXTINF:-1,iptvtools_5
+http://a5.vc/Sx8
+#EXTINF:-1,Animal Planet FHD
+http://srvx.io:80/live/7885037935/fireurl.co/71772.ts
+#EXTINF:-1,iptvtools_7
+http://a5.vc/aDZ
+#EXTINF:-1,Arte 1 FHD
+http://srvx.io:80/live/7885037935/fireurl.co/71777.ts
+#EXTINF:-1,iptvtools_9
+http://a5.vc/dbM
+#EXTINF:-1,AXN FHD
+http://srvx.io:80/live/7885037935/fireurl.co/71781.ts
+#EXTINF:-1,iptvtools_11
+http://a5.vc/j8Y
+#EXTINF:-1,Band Sports FHD
+http://srvx.io:80/live/7885037935/fireurl.co/71801.ts
+#EXTINF:-1,iptvtools_13
+http://a5.vc/TDh
+#EXTINF:-1,BIS FHD
+http://srvx.io:80/live/7885037935/fireurl.co/71806.ts
+#EXTINF:-1,iptvtools_15
+http://a5.vc/DtS
+#EXTINF:-1,Boomerang FHD
+http://srvx.io:80/live/7885037935/fireurl.co/71812.ts
+#EXTINF:-1,iptvtools_17
+http://a5.vc/tSP
+#EXTINF:-1,Canal Sony FHD
+http://srvx.io:80/live/7885037935/fireurl.co/71824.ts
+#EXTINF:-1,iptvtools_19
+http://a5.vc/Ts9
+#EXTINF:-1,Cartoon Network FHD
+http://srvx.io:80/live/7885037935/fireurl.co/71828.ts
+#EXTINF:-1,iptvtools_21
+http://a5.vc/j8T
+#EXTINF:-1,Cinemax FHD
+http://srvx.io:80/live/7885037935/fireurl.co/71833.ts
+#EXTINF:-1,Cine SKY 1 HD
+http://srvx.io:80/live/7885037935/fireurl.co/72994.ts
+#EXTINF:-1,Cine SKY 2 HD
+http://srvx.io:80/live/7885037935/fireurl.co/72995.ts
+#EXTINF:-1,Cine SKY 3 HD
+http://srvx.io:80/live/7885037935/fireurl.co/72996.ts
+#EXTINF:-1,Cine SKY 4 HD
+http://srvx.io:80/live/7885037935/fireurl.co/72997.ts
+#EXTINF:-1,Cine SKY 5 HD
+http://srvx.io:80/live/7885037935/fireurl.co/72998.ts
+#EXTINF:-1,Cine SKY 6 HD
+http://srvx.io:80/live/7885037935/fireurl.co/72999.ts
+#EXTINF:-1,Cine SKY 7 HD
+http://srvx.io:80/live/7885037935/fireurl.co/73000.ts
+#EXTINF:-1,Cine SKY 8 HD
+http://srvx.io:80/live/7885037935/fireurl.co/73001.ts
+#EXTINF:-1,Cine SKY 9 HD
+http://srvx.io:80/live/7885037935/fireurl.co/73002.ts
+#EXTINF:-1,Cine SKY 10 HD
+http://srvx.io:80/live/7885037935/fireurl.co/73003.ts
+#EXTINF:-1,iptvtools_33
+http://a5.vc/kBr
+#EXTINF:-1,CNN Brasil FHD
+http://srvx.io:80/live/7885037935/fireurl.co/71837.ts
+#EXTINF:-1,iptvtools_35
+http://a5.vc/Flm
+#EXTINF:-1,Combate FHD
+http://srvx.io:80/live/7885037935/fireurl.co/71842.ts
+#EXTINF:-1,iptvtools_37
+http://a5.vc/mT5
+#EXTINF:-1,Comedy Central FHD
+http://srvx.io:80/live/7885037935/fireurl.co/71847.ts
+#EXTINF:-1,Conmebol TV 4 HD
+http://srvx.io:80/live/7885037935/fireurl.co/72991.ts
+#EXTINF:-1,Cultura HD
+http://srvx.io:80/live/7885037935/fireurl.co/71853.ts
+#EXTINF:-1,iptvtools_44
+http://a5.vc/CyU
+#EXTINF:-1,Curta FHD
+http://srvx.io:80/live/7885037935/fireurl.co/71855.ts
+#EXTINF:-1,iptvtools_46
+http://a5.vc/6qb
+#EXTINF:-1,DAZN 1 HD
+http://srvx.io:80/live/7885037935/fireurl.co/71860.ts
+#EXTINF:-1,iptvtools_48
+http://a5.vc/6qb
+#EXTINF:-1,DAZN 2 HD
+http://srvx.io:80/live/7885037935/fireurl.co/72630.ts
+#EXTINF:-1,iptvtools_50
+http://a5.vc/6qb
+#EXTINF:-1,DAZN 3 HD
+http://srvx.io:80/live/7885037935/fireurl.co/71861.ts
+#EXTINF:-1,iptvtools_52
+http://a5.vc/6qb
+#EXTINF:-1,DAZN 4 HD
+http://srvx.io:80/live/7885037935/fireurl.co/71859.ts
+#EXTINF:-1,iptvtools_54
+http://a5.vc/Oj9
+#EXTINF:-1,Discovery Channel FHD
+http://srvx.io:80/live/7885037935/fireurl.co/71862.ts
+#EXTINF:-1,iptvtools_56
+http://a5.vc/XcV
+#EXTINF:-1,Discovery H&H FHD
+http://srvx.io:80/live/7885037935/fireurl.co/71867.ts
+#EXTINF:-1,iptvtools_58
+http://a5.vc/KvX
+#EXTINF:-1,Discovery Kids FHD
+http://srvx.io:80/live/7885037935/fireurl.co/71871.ts
+#EXTINF:-1,iptvtools_60
+http://a5.vc/0gi
+#EXTINF:-1,Discovery Science FHD
+http://srvx.io:80/live/7885037935/fireurl.co/71875.ts
+#EXTINF:-1,iptvtools_62
+http://a5.vc/Nib
+#EXTINF:-1,Discovery Theater FHD
+http://srvx.io:80/live/7885037935/fireurl.co/71879.ts
+#EXTINF:-1,iptvtools_64
+http://a5.vc/uCQ
+#EXTINF:-1,Discovery Turbo FHD
+http://srvx.io:80/live/7885037935/fireurl.co/71883.ts
+#EXTINF:-1,iptvtools_66
+http://a5.vc/wgC
+#EXTINF:-1,Discovery World FHD
+http://srvx.io:80/live/7885037935/fireurl.co/71887.ts
+#EXTINF:-1,iptvtools_68
+http://a5.vc/MJq
+#EXTINF:-1,Disney Channel FHD
+http://srvx.io:80/live/7885037935/fireurl.co/71891.ts
+#EXTINF:-1,iptvtools_70
+http://a5.vc/kzm
+#EXTINF:-1,Disney Junior FHD
+http://srvx.io:80/live/7885037935/fireurl.co/71895.ts
+#EXTINF:-1,DogTV FHD
+http://srvx.io:80/live/7885037935/fireurl.co/76922.ts
+#EXTINF:-1,iptvtools_73
+http://a5.vc/DKx
+#EXTINF:-1,E! FHD
+http://srvx.io:80/live/7885037935/fireurl.co/71900.ts
+#EXTINF:-1,iptvtools_75
+http://a5.vc/uqI
+#EXTINF:-1,iptvtools_77
+http://a5.vc/uqI
+#EXTINF:-1,iptvtools_79
+http://a5.vc/uqI
+#EXTINF:-1,iptvtools_81
+http://a5.vc/uqI
+#EXTINF:-1,iptvtools_83
+http://a5.vc/uqI
+#EXTINF:-1,iptvtools_85
+http://a5.vc/uqI
+#EXTINF:-1,Estádio TNT Sports 6 HD
+http://srvx.io:80/live/7885037935/fireurl.co/76673.ts
+#EXTINF:-1,Eleven Sports 1 FHD
+http://srvx.io:80/live/7885037935/fireurl.co/73254.ts
+#EXTINF:-1,Eleven Sports 2 FHD
+http://srvx.io:80/live/7885037935/fireurl.co/73255.ts
+#EXTINF:-1,Eleven Sports 3 FHD
+http://srvx.io:80/live/7885037935/fireurl.co/73256.ts
+#EXTINF:-1,Eleven Sports 4 FHD
+http://srvx.io:80/live/7885037935/fireurl.co/73257.ts
+#EXTINF:-1,Eleven Sports 5 FHD
+http://srvx.io:80/live/7885037935/fireurl.co/73258.ts
+#EXTINF:-1,Eleven Sports 6 FHD
+http://srvx.io:80/live/7885037935/fireurl.co/73259.ts
+#EXTINF:-1,iptvtools_93
+http://a5.vc/KCw
+#EXTINF:-1,ESPN 2 FHD
+http://srvx.io:80/live/7885037935/fireurl.co/71907.ts
+#EXTINF:-1,iptvtools_95
+http://a5.vc/YpF
+#EXTINF:-1,ESPN Brasil FHD
+http://srvx.io:80/live/7885037935/fireurl.co/71911.ts
+#EXTINF:-1,iptvtools_97
+http://a5.vc/YpF
+#EXTINF:-1,ESPN Extra FHD
+http://srvx.io:80/live/7885037935/fireurl.co/71915.ts
+#EXTINF:-1,iptvtools_99
+http://a5.vc/8lJ
+#EXTINF:-1,ESPN FHD
+http://srvx.io:80/live/7885037935/fireurl.co/71919.ts
+#EXTINF:-1,Facebook Watch 
+http://srvx.io:80/live/7885037935/fireurl.co/73005.ts
+#EXTINF:-1,Facebook Watch 2 
+http://srvx.io:80/live/7885037935/fireurl.co/79316.ts
+#EXTINF:-1,Facebook Watch 3 
+http://srvx.io:80/live/7885037935/fireurl.co/79317.ts
+#EXTINF:-1,FashionTV FHD
+http://srvx.io:80/live/7885037935/fireurl.co/71924.ts
+#EXTINF:-1,iptvtools_105
+http://a5.vc/cii
+#EXTINF:-1,SporTV HD
+http://srvx.io:80/live/7885037935/fireurl.co/72332.ts
+#EXTINF:-1,iptvtools_107
+http://a5.vc/YO7
+#EXTINF:-1,SporTV 2 HD
+http://fsrv.me:80/live/7885037935/fireurl.co/72323.ts
+#EXTINF:-1,iptvtools_109
+http://a5.vc/ybu
+#EXTINF:-1,SporTV 3 HD
+http://srvx.io:80/live/7885037935/fireurl.co/72327.ts
+#EXTINF:-1,iptvtools_111
+http://a5.vc/StA
+#EXTINF:-1,Fish TV FHD
+http://srvx.io:80/live/7885037935/fireurl.co/71928.ts
+#EXTINF:-1,iptvtools_113
+http://a5.vc/ZHe
+#EXTINF:-1,Food Network FHD
+http://srvx.io:80/live/7885037935/fireurl.co/71932.ts
+#EXTINF:-1,iptvtools_115
+http://a5.vc/Ck2
+#EXTINF:-1,Star Channel FHD
+http://srvx.io:80/live/7885037935/fireurl.co/71936.ts
+#EXTINF:-1,iptvtools_117
+http://a5.vc/OVC
+#EXTINF:-1,Star Life FHD
+http://srvx.io:80/live/7885037935/fireurl.co/71939.ts
+#EXTINF:-1,iptvtools_119
+http://a5.vc/3gn
+#EXTINF:-1,Star Hits FHD
+http://srvx.io:80/live/7885037935/fireurl.co/71943.ts
+#EXTINF:-1,iptvtools_121
+http://a5.vc/0ud
+#EXTINF:-1,Star Hits 2 FHD
+http://srvx.io:80/live/7885037935/fireurl.co/71947.ts
+#EXTINF:-1,iptvtools_123
+http://a5.vc/DXo
+#EXTINF:-1,Fox Sports 2 FHD
+http://srvx.io:80/live/7885037935/fireurl.co/71952.ts
+#EXTINF:-1,iptvtools_125
+http://a5.vc/55i
+#EXTINF:-1,Fox Sports FHD
+http://srvx.io:80/live/7885037935/fireurl.co/71957.ts
+#EXTINF:-1,iptvtools_127
+http://a5.vc/JsW
+#EXTINF:-1,FX FHD
+http://srvx.io:80/live/7885037935/fireurl.co/71966.ts
+#EXTINF:-1,iptvtools_129
+http://a5.vc/3pv
+#EXTINF:-1,Globo RJ FHD
+http://srvx.io:80/live/7885037935/fireurl.co/72025.ts
+#EXTINF:-1,iptvtools_131
+http://a5.vc/3pv
+#EXTINF:-1,Globo SP FHD
+http://srvx.io:80/live/7885037935/fireurl.co/72040.ts
+#EXTINF:-1,Gloobinho FHD
+http://srvx.io:80/live/7885037935/fireurl.co/90631.ts
+#EXTINF:-1,iptvtools_134
+http://a5.vc/scT
+#EXTINF:-1,GNT FHD
+http://srvx.io:80/live/7885037935/fireurl.co/72102.ts
+#EXTINF:-1,iptvtools_136
+http://a5.vc/VE2
+#EXTINF:-1,History FHD
+http://srvx.io:80/live/7885037935/fireurl.co/72146.ts
+#EXTINF:-1,iptvtools_138
+http://a5.vc/Zwg
+#EXTINF:-1,H2 FHD
+http://srvx.io:80/live/7885037935/fireurl.co/72106.ts
+#EXTINF:-1,iptvtools_140
+http://a5.vc/0qQ
+#EXTINF:-1,HBO 2 FHD
+http://srvx.io:80/live/7885037935/fireurl.co/72110.ts
+#EXTINF:-1,iptvtools_142
+http://a5.vc/u4M
+#EXTINF:-1,HBO Family FHD
+http://srvx.io:80/live/7885037935/fireurl.co/72114.ts
+#EXTINF:-1,iptvtools_144
+http://a5.vc/ezc
+#EXTINF:-1,HBO FHD
+http://srvx.io:80/live/7885037935/fireurl.co/72118.ts
+#EXTINF:-1,HBO Mundi FHD
+http://srvx.io:80/live/7885037935/fireurl.co/72121.ts
+#EXTINF:-1,iptvtools_147
+http://a5.vc/60H
+#EXTINF:-1,HBO Plus FHD
+http://srvx.io:80/live/7885037935/fireurl.co/72125.ts
+#EXTINF:-1,HBO Pop FHD
+http://srvx.io:80/live/7885037935/fireurl.co/72129.ts
+#EXTINF:-1,iptvtools_150
+http://a5.vc/2N4
+#EXTINF:-1,HBO Signature FHD
+http://srvx.io:80/live/7885037935/fireurl.co/72134.ts
+#EXTINF:-1,HBO Xtreme FHD
+http://srvx.io:80/live/7885037935/fireurl.co/72138.ts
+#EXTINF:-1,BBB 1 FHD
+http://dnsx.co:80/live/7885037935/fireurl.co/89722.ts
+#EXTINF:-1,BBB 1 FHD [H265]
+http://dnsx.co:80/live/7885037935/fireurl.co/89721.ts
+#EXTINF:-1,BBB 1 HD
+http://dnsx.co:80/live/7885037935/fireurl.co/89720.ts
+#EXTINF:-1,BBB 1 SD
+http://dnsx.co:80/live/7885037935/fireurl.co/89719.ts
+#EXTINF:-1,BBB 2 FHD
+http://dnsx.co:80/live/7885037935/fireurl.co/89714.ts
+#EXTINF:-1,BBB 2 FHD [H265]
+http://dnsx.co:80/live/7885037935/fireurl.co/89713.ts
+#EXTINF:-1,BBB 2 HD
+http://dnsx.co:80/live/7885037935/fireurl.co/89712.ts
+#EXTINF:-1,BBB 2 SD
+http://dnsx.co:80/live/7885037935/fireurl.co/89711.ts
+#EXTINF:-1,BBB Acompanhe a Casa Extra FHD
+http://dnsx.co:80/live/7885037935/fireurl.co/93492.ts
+#EXTINF:-1,BBB Acompanhe a Casa Extra HD
+http://dnsx.co:80/live/7885037935/fireurl.co/93493.ts
+#EXTINF:-1,BBB Acompanhe a Casa Extra SD
+http://dnsx.co:80/live/7885037935/fireurl.co/93494.ts
+#EXTINF:-1,BBB Confessionario FHD
+http://dnsx.co:80/live/7885037935/fireurl.co/93498.ts
+#EXTINF:-1,BBB Confessionario HD
+http://dnsx.co:80/live/7885037935/fireurl.co/93499.ts
+#EXTINF:-1,BBB Confessionario SD
+http://dnsx.co:80/live/7885037935/fireurl.co/93500.ts
+#EXTINF:-1,BBB Cozinha Vip Xepa FHD
+http://dnsx.co:80/live/7885037935/fireurl.co/93501.ts
+#EXTINF:-1,BBB Cozinha Vip Xepa HD
+http://dnsx.co:80/live/7885037935/fireurl.co/93502.ts
+#EXTINF:-1,BBB Cozinha Vip Xepa SD
+http://dnsx.co:80/live/7885037935/fireurl.co/93503.ts
+#EXTINF:-1,BBB Jardim FHD
+http://dnsx.co:80/live/7885037935/fireurl.co/93504.ts
+#EXTINF:-1,BBB Jardim HD
+http://dnsx.co:80/live/7885037935/fireurl.co/93505.ts
+#EXTINF:-1,BBB Jardim SD
+http://dnsx.co:80/live/7885037935/fireurl.co/93506.ts
+#EXTINF:-1,BBB Mosaico FHD
+http://dnsx.co:80/live/7885037935/fireurl.co/89718.ts
+#EXTINF:-1,BBB Mosaico FHD [H265]
+http://dnsx.co:80/live/7885037935/fireurl.co/89717.ts
+#EXTINF:-1,BBB Mosaico HD
+http://dnsx.co:80/live/7885037935/fireurl.co/89716.ts
+#EXTINF:-1,BBB Mosaico SD
+http://dnsx.co:80/live/7885037935/fireurl.co/89715.ts
+#EXTINF:-1,BBB Piscina FHD
+http://dnsx.co:80/live/7885037935/fireurl.co/93507.ts
+#EXTINF:-1,BBB Piscina HD
+http://dnsx.co:80/live/7885037935/fireurl.co/93508.ts
+#EXTINF:-1,BBB Piscina SD
+http://dnsx.co:80/live/7885037935/fireurl.co/93509.ts
+#EXTINF:-1,BBB Quarto Colorido FHD
+http://dnsx.co:80/live/7885037935/fireurl.co/93510.ts
+#EXTINF:-1,BBB Quarto Colorido HD
+http://dnsx.co:80/live/7885037935/fireurl.co/93511.ts
+#EXTINF:-1,BBB Quarto Colorido SD
+http://dnsx.co:80/live/7885037935/fireurl.co/93512.ts
+#EXTINF:-1,BBB Quarto Cordel FHD
+http://dnsx.co:80/live/7885037935/fireurl.co/93513.ts
+#EXTINF:-1,BBB Quarto Cordel HD
+http://dnsx.co:80/live/7885037935/fireurl.co/93514.ts
+#EXTINF:-1,BBB Quarto Cordel SD
+http://dnsx.co:80/live/7885037935/fireurl.co/93515.ts
+#EXTINF:-1,BBB Sala de Estar FHD
+http://dnsx.co:80/live/7885037935/fireurl.co/93519.ts
+#EXTINF:-1,BBB Sala de Estar HD
+http://dnsx.co:80/live/7885037935/fireurl.co/93520.ts
+#EXTINF:-1,BBB Sala de Estar SD
+http://dnsx.co:80/live/7885037935/fireurl.co/93521.ts
